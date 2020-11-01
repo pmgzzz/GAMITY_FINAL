@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BuildingService</string>
+    <string name="btnConnect">Войти в систему</string>
+    <string name="phoneNumberText">Номер телефона</string>
+    <string name="pinText">PIN</string>
+    <string name="LogoUserID">Идентификация пользователя</string>
+    <string name="StartSession">Начать рабочую сессию</string>
+    <string name="LogOff">Выход из аккаунта</string>
+    <string name="EndSession">Завершить рабочую сессию</string>
+    <string name="textviewCntTimeTxt">Текущая рабочая сессия:</string>
+    <string name="textviewCntTime">08:52</string>
+    <string name="textviewSOS">SOS</string>
+    <string name="s_o_s">S O S</string>
+    <string name="SnilsText">Снилс</string>
+    <string name="profile_names">Выберите роль на сегодя из доступных</string>
+    <string name="or">Или</string>
+    <string name="coin">Поздравляем!Получите монеты!</string>
+    <string name="LevelUp">Поздравляем! Новый опыт</string>
+    <string name="victory_exp">За безукоснительное соблюдение инструкции безопасности</string>
+    <string name="experience">+200</string>
+    <string name="experiencetodo">TODO</string>
+    <string name="Ok">Ok</string>
+    <string name="ExpReason">За заполнение информации при входе</string>
+    <string name="todo">TODO</string>
+</resources>

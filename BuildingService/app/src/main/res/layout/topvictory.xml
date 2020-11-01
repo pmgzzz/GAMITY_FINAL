@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="266dp"
+        android:layout_height="178dp"
+        app:srcCompat="@drawable/winner"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/prof1"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="215dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/prof2png"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="379dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/prof1"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="539dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Иванов А."
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="319dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Петров В."
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="486dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Оглы-Лады"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="646dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/coin"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="215dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/coin"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="379dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/coin"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="539dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="168dp"
+        android:layout_height="83dp"
+        app:srcCompat="@drawable/experience"
+        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteY="215dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="168dp"
+        android:layout_height="83dp"
+        app:srcCompat="@drawable/experience"
+        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteY="379dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="168dp"
+        android:layout_height="83dp"
+        app:srcCompat="@drawable/experience"
+        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteY="539dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="78dp"
+        android:layout_height="29dp"
+        android:text="300"
+        android:textColor="#000000"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="462dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="78dp"
+        android:layout_height="29dp"
+        android:gravity="center"
+        android:text="200"
+        android:textColor="#000000"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="622dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="78dp"
+        android:layout_height="29dp"
+        android:gravity="center"
+        android:text="450"
+        android:textColor="#000000"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="298dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
